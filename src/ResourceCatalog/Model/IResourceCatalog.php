@@ -8,7 +8,7 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         'XBXZCF' => 1,
         'XBXZXK'=> 2,
         'JGJCDXZJL' => 3,
-        'TEST' => 4,
+        'JXSZLJDW' => 4,
         'SJJXMXX' => 5,
         'GGXYZHPJ' => 6,
         'YXQNZYZ' => 7,
@@ -90,7 +90,6 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         'XZXKQYXX' => 83,
         'SYDWFRDJXX' => 84,
         'DZDAGZZDWGRBZJL' => 85,
-        'JXSZLJDW' => 86,
         'TEST' => 500
     );
 
